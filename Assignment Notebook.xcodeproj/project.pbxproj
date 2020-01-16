@@ -16,6 +16,7 @@
 		58EB43BF23CF7CFB001BD36F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58EB43BD23CF7CFB001BD36F /* LaunchScreen.storyboard */; };
 		58EB43CA23CF7CFB001BD36F /* Assignment_NotebookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58EB43C923CF7CFB001BD36F /* Assignment_NotebookTests.swift */; };
 		58EB43D523CF7CFB001BD36F /* Assignment_NotebookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58EB43D423CF7CFB001BD36F /* Assignment_NotebookUITests.swift */; };
+		58EB43E323D0CAE1001BD36F /* TaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58EB43E223D0CAE1001BD36F /* TaskManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		58EB43D023CF7CFB001BD36F /* Assignment NotebookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Assignment NotebookUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		58EB43D423CF7CFB001BD36F /* Assignment_NotebookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_NotebookUITests.swift; sourceTree = "<group>"; };
 		58EB43D623CF7CFB001BD36F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58EB43E223D0CAE1001BD36F /* TaskManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				58EB43B023CF7CF3001BD36F /* AppDelegate.swift */,
 				58EB43B223CF7CF3001BD36F /* SceneDelegate.swift */,
 				58EB43B423CF7CF3001BD36F /* MasterViewController.swift */,
+				58EB43E223D0CAE1001BD36F /* TaskManager.swift */,
 				58EB43B623CF7CF3001BD36F /* DetailViewController.swift */,
 				58EB43B823CF7CF3001BD36F /* Main.storyboard */,
 				58EB43BB23CF7CFB001BD36F /* Assets.xcassets */,
@@ -264,6 +267,7 @@
 			files = (
 				58EB43B123CF7CF3001BD36F /* AppDelegate.swift in Sources */,
 				58EB43B323CF7CF3001BD36F /* SceneDelegate.swift in Sources */,
+				58EB43E323D0CAE1001BD36F /* TaskManager.swift in Sources */,
 				58EB43B523CF7CF3001BD36F /* MasterViewController.swift in Sources */,
 				58EB43B723CF7CF3001BD36F /* DetailViewController.swift in Sources */,
 			);
